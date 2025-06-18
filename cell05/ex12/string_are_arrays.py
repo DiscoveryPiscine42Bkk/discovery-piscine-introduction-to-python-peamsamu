@@ -1,0 +1,1 @@
+print("RFTM (Read the F-ing manual)")
